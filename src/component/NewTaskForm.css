@@ -1,0 +1,19 @@
+.inputForm {
+    margin: 0 0 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.buttonForm {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+.invalid {
+    border-color: red;
+}

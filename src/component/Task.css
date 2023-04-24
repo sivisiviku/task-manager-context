@@ -1,0 +1,14 @@
+.task {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    flex-direction: column;
+    width: 100vh;
+}
+
+.action {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
